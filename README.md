@@ -1,4 +1,5 @@
-# react-training
-## Tous les cours trouvés sur youtube seront testé  (anglais ou français)
+# Learn React With This One Project
 
-juste histoire de s'entrainer et maitriser React
+## 25/04/23
+
+En avant la musique !
