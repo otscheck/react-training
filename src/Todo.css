@@ -1,0 +1,16 @@
+.todo-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.todo-card{
+    background-color: #fff;
+    border: 1px solid #22558512;
+    border-radius: 0.5rem;
+    box-shadow: 0 9px 13px #2d94f312;
+    color: #242424;
+    padding: 20px;
+    min-height: 280px;
+    width: 380px;
+}

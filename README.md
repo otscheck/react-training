@@ -1,4 +1,9 @@
 # react-training
-## Tous les cours trouvés sur youtube seront testé  (anglais ou français)
 
-juste histoire de s'entrainer et maitriser React
+## Youtube training Rajesh Battheri
+
+début du cours : 02/05/23
+
+fin du cours : 02/05/23
+
+c'était bien fait
